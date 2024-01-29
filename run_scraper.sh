@@ -1,0 +1,1 @@
+scrapy crawl wiki_tag_extractor -O output.json

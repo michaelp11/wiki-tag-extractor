@@ -1,0 +1,1 @@
+.\venv\Scripts\scrapy.exe crawl wiki-tag-extractor -O output.json

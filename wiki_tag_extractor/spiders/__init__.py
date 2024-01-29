@@ -1,0 +1,1 @@
+from wiki_tag_extractor.spiders.RandomWikiSiteScraper import RandomWikiSiteScraper

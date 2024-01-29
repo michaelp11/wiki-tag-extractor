@@ -1,0 +1,1 @@
+from wiki_tag_extractor.items import WikiTagExtractorItem
